@@ -1,24 +1,20 @@
-# README
+# ゼミのホームページ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+ゼミの紹介ホームページを仮で作成
+骨組みだけ作成して後日打ち合わせ
 
-Things you may want to cover:
+### サイトテーマ
 
-* Ruby version
 
-* System dependencies
+### ターゲットユーザ
+検討している人
 
-* Configuration
+### 主な利用シーン
+どんなゼミな見たい時
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### その他
+現ゼミ生の投稿機能はいるのか
+会員登録は必要か
+SNSへのリンクはいるか
+写真は必要か
