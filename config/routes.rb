@@ -1,7 +1,4 @@
 Rails.application.routes.draw do
-  get 'zemi/index'
-  get 'zemi/show'
-  get 'zemi/new'
-  get 'zemi/edit'
   root to: 'homes#top'
+  resources :zemis, only: [:index, :show, :new, :update, :edit, :destroy ]
 end

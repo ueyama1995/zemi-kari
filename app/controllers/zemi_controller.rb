@@ -1,5 +1,6 @@
 class ZemiController < ApplicationController
   def index
+    @zemi = zemi.all
   end
 
   def show
@@ -10,4 +11,15 @@ class ZemiController < ApplicationController
 
   def edit
   end
+  
+  def update
+  end
+  
+  def destroy
+  end
+  
+
+ private
+ 
+  
 end
